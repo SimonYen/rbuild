@@ -1,0 +1,13 @@
+GEM
+  remote: https://gems.ruby-china.com/
+  specs:
+    cli-ui (2.2.3)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  cli-ui
+
+BUNDLED WITH
+   2.3.15
