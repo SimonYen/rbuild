@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
-source 'https://gems.ruby-china.com'
+source 'https://mirrors.tuna.tsinghua.edu.cn/rubygems'
 
 gem 'cli-ui'
