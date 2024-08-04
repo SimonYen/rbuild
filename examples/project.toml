@@ -1,0 +1,18 @@
+# Complie mode:bin(binary),dyn(dynamic library),sta(static library) mutilple mode supported, eg. "bin" + "dyn"
+mode= "bin"
+
+# C++ lang complier, supported: g++ clang++
+cxx = "g++"
+
+# Project entrance file(source file that contained main function)
+entrance = "main.cpp"
+
+# Include files directory, mutilple directory supported, eg. "inc" + "include"
+include_dir = "inc"
+
+# Library directory, mutilple directory supported, eg. "lib" + "library"
+library_dir = "lib"
+
+# Source files directory, mutilple directory supported, eg. "src" + "source"
+source_dir = "src"
+
